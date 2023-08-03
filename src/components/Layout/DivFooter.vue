@@ -1,7 +1,7 @@
 <template>
 <!-- Footer -->
 <footer class="footer">
-    <p>&copy; 2023 Travel Assistance Web-App. Made with <i class="fas fa-heart text-danger"></i> by Kelvin Mabjaia.</p>
+    <p>&copy; 2023 Travel Assistance Web-App. Made with <i class="fas fa-heart text-danger"></i> by <a target="_blank" href="https://kelvinmabjaia.carrd.co/">Kelvin Mabjaia</a></p>
 </footer>
 </template>
 
